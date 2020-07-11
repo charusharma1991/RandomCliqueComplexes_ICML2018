@@ -1,4 +1,4 @@
-# RandomCliqueComplexes_ICML2018
+# Solving Partial Assignment Problems using Random Clique Complexes
 
 ### About
 This is a source code for our [ICML 2018](https://icml.cc/Conferences/2018) paper: [Solving Partial Assignment Problems using Random Clique Complexes](http://proceedings.mlr.press/v80/sharma18a).
