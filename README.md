@@ -9,9 +9,10 @@ This code is developed in
 MATLAB R2017b
 ```
 ### Dataset
-We used eight different datasets for evaluation. The dataset names are:
+We used nine different datasets for evaluation. The dataset names are:
 - CMU House
 - CMU Hotel
+- Horse Rotate and Shear
 - Car
 - Bike
 - Butterfly
